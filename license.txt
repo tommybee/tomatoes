@@ -1,0 +1,5 @@
+For the FMOD license, please see <http://www.fmod.org/fmodlicense.html>.
+
+For the complete SDK & latest version, visit <http://www.fmod.org/>
+
+The FMOD headers and libraries are distributed with Aszgard by permission.
